@@ -1,20 +1,29 @@
-# Highest-Paid Athletes
+## Project: Phone Catalog
 
-Follow the next steps:
+### Project Description
 
-- Press `Use this template`
-- Clone the created github repo (from your account)
-- `npm i`
-- `npm start`
-- Tag your coach in your private channel and rend them a link to your `index.html` file
+Phone Catalog is a web application that allows users to browse information about various phone models. The application provides users with the ability to quickly find desired products, view their specifications, and add them to a favorites list.
 
-Implement following the next description:
-- [English](./description/en.md)
-- [Ukrainian](./description/ua.md)
-- [Polish](./description/pl.md)
-- [Portuguese](./description/pt.md)
+### Key Features
 
-When done 
-- make sure to `commit`, `push` and `deploy`
-- check that your Demo Page works as expected
-- Send a link to your deployed page to the coach 
+- **Homepage with Catalog**: Displays a list of available phones with the ability to filter by various criteria (price, manufacturer, specifications, etc.).
+- **Product Page**: Each phone has its own separate page with detailed information (description, specifications, images).
+- **Favorites**: Users can add products to a favorites list and view them later.
+- **Shopping Cart**: Users can add products to the shopping cart and make purchases.
+- **Search Functionality**: Users can quickly find desired products using the search function.
+
+### Technologies Used
+
+- **Frontend**: React.js is used to create the user interface and handle user interactions. Zustand is used for state management.
+- **UI Library**: Radix UI is used for styling components.
+- **Sliders**: SwiperJS is used to implement image sliders for easy viewing of phone images.
+
+### Special Features
+
+- Wide selection of phones from various manufacturers.
+- Convenient search and filtering of products by various criteria.
+- Ability to add products to a favorites list for later viewing.
+
+### Project Goal
+
+The goal of the Phone Catalog project is to create a convenient and functional online store for purchasing phones. The application is being developed taking into account user needs and best practices in software development.
